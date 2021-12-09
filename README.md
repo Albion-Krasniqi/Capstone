@@ -1,4 +1,4 @@
-## Capstone: Improving On-Shelf Availability in Retail Stores using Machine Learning
+## Improving On-Shelf Availability in Retail Stores using Machine Learning
 
 ### Albion Krasniqi
 
