@@ -30,4 +30,5 @@ Link to Kaggle Fruit Dataset: https://www.kaggle.com/mbkinaci/fruit-images-for-o
 │
 ├── model_1_mask_RCNN   <- Mask R-CNN model implementation and experiments
 ├── model_2_YoloV3      <- YoloV3 model implementation and experiments
+├── previous_models     <- Other models that were used/implemented during different phases of this project development.
 ```
