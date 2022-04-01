@@ -9,8 +9,7 @@ This project identifies the problems of on-shelf availability (stock) monitoring
 Key Words: Machine learning, Deep Learning, Image Recognition, Stock Monitoring, On-Shelf Availability
 
 **Work completed so far:** 
-
-Both models were trained and implemented. Furthermore, I conducted few  experiments with each of them.  Check out the folders for more information. 
+Both models were trained and implemented. Furthermore, I conducted few experiments with each of them. Check out the folders for more information. 
 
 Below are the links the implementation notebooks: 
 
@@ -25,12 +24,10 @@ Link to Kaggle Fruit Dataset: https://www.kaggle.com/mbkinaci/fruit-images-for-o
 ```
 ├── README.md           <- The top-level README for developers using this project.
 
-├── data
-│   ├── raw             <- The raw data
-│   ├── processed       <- The processed data
+├── data                <- dataset link (FTP server is needed to download the data).
 │
 ├── requirements.txt    <- Requirements for this project.
 │
-├── model_1_mask_RCNN   <- Models using R-CNN
-├── model_2_YoloV3      <- YoloV3 model.
+├── model_1_mask_RCNN   <- Mask R-CNN model implementation and experiments
+├── model_2_YoloV3      <- YoloV3 model implementation and experiments
 ```
